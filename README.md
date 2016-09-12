@@ -7,7 +7,7 @@ A template for creating web backends using Express. Uses Handlebars as the rende
 Get a copy from Github
 
 ```
-git clone https://github.com/tomrickard/npm-typescript-template.git
+git clone https://github.com/tomrickard/express-hbs-template.git
 ```
 
 Install the NPM dependencies:
